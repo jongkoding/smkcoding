@@ -37,7 +37,7 @@ export const products = [
   },
   {
     id: 5,
-    name: "Batch Freelancer Men's Button Down Shirt in Gray Black",
+    name: "Batch Freelancer Men's Button Down Shirt in Aluminum Gray",
     category: "Baju",
     price: 10,
     image: "/images/products/baju-5.png",
@@ -126,7 +126,7 @@ export const products = [
     description: "White Casual Short Sleeve Cotton Plain Top Embellished Non-Stretch Summer Men Tops",
   },
   {
-    id: 15,
+    id: 14,
     name: "Batch Freelancer Men's Button Down Shirt in Aluminum Gray",
     category: "Celana",
     price: 10,
